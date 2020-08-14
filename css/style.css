@@ -283,7 +283,7 @@ body {
     font-size: 20px;
     line-height: 19px;
   }
-  
+
   .arrow {
     width: 73px;
     padding-left: 10px;
@@ -380,13 +380,13 @@ body {
     display: none;
   }
 
-  .header__logo-image_adaptive {    
+  .header__logo-image_adaptive {
     display: flex;
     height: 22px;
     width: 105px;
     margin-left: 20px;
     align-items: center;
-  }  
+  }
 
   .header__menu-bar {
     display: flex;
@@ -451,7 +451,7 @@ body {
     display: none;
   }
 
-  .header__logo-image_adaptive {    
+  .header__logo-image_adaptive {
     display: flex;
     height: 22px;
     width: 105px;
@@ -490,7 +490,7 @@ body {
     line-height: 20px;
     padding-bottom: 17px;
   }
-  
+
   .link {
     font-size: 12px;
     line-height: 11px;
