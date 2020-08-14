@@ -309,13 +309,13 @@ body {
     display: none;
   }
 
-  .header__logo-image_adaptive {    
+  .header__logo-image_adaptive {
     display: flex;
     height: 22px;
     width: 104px;
     margin-left: 48px;
     align-items: center;
-  }  
+  }
 
   .header__menu-bar {
     display: flex;
@@ -490,10 +490,12 @@ body {
     line-height: 20px;
     padding-bottom: 17px;
   }
+  
   .link {
     font-size: 12px;
     line-height: 11px;
   }
+
   .arrow {
     width: 46px;
     padding-left: 8px;
