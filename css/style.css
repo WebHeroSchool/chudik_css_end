@@ -4,12 +4,12 @@
 }
 
 body {
-  font-family: "GothamPro";
+  font-family: GothamPro;
 }
 
 .wrapper {
   max-width: 1030px;
-  min-width: 320px; 
+  min-width: 320px;
   margin: 0 auto;
   box-sizing: border-box;
 }
@@ -54,6 +54,7 @@ body {
   font-weight: bold;
   line-height: 11px;
 }
+
 .header__menu-bar {
   display: none;
 }
@@ -163,9 +164,9 @@ body {
 }
 
 @media (max-width: 1169px) and (min-width: 1024px) {
-  .wrapper{
+  .wrapper {
     max-width: 930px;
-    margin: 0 auto;    
+    margin: 0 auto;
   }
 
   .header {
@@ -225,7 +226,6 @@ body {
   }
 }
 
-
 @media (max-width: 1023px) and (min-width: 768px) {
   .header {
     grid-template-columns: 1fr 1fr;
@@ -243,13 +243,13 @@ body {
     display: none;
   }
 
-  .header__logo-image_adaptive {    
+  .header__logo-image_adaptive {
     display: flex;
     height: 34px;
     width: 157px;
     margin-left: 43px;
     align-items: center;
-  }  
+  }
 
   .header__menu-bar {
     display: flex;
@@ -278,10 +278,12 @@ body {
     line-height: 48px;
     padding-bottom: 46.5px;
   }
+
   .link {
     font-size: 20px;
     line-height: 19px;
   }
+  
   .arrow {
     width: 73px;
     padding-left: 10px;
